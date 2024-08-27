@@ -1,0 +1,312 @@
+.menu{
+    height: 5vh;
+    width: 2vw;
+    position: relative;
+    left: 20px;
+    top: -21px;
+}
+.you{
+    position: relative;
+    left: 30px;
+    height: 10vh;
+    top: -5px;
+}
+.search{
+    position: relative;
+    top: -30px;
+    width: 47%;
+    left: 150px;
+    height: 6vh;
+    border-radius: 30px;
+    border: 1px solid rgb(187, 186, 186);
+    padding-left: 40px;
+}
+.search::placeholder{
+    position: relative;
+    left: -1px;
+    font-size: 17px;
+    top: 2px;
+}
+.search:focus{
+    border: 2px solid rgb(255, 133, 133);
+    outline: none;
+}
+.png{
+    position: relative;
+    top: -20px;
+    height: 4vh;
+    width: 2vw;
+    left: 80px;
+}
+.mic{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -18px;
+    left: 130px;
+}
+.mics{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -18px;
+    left: 260px;
+}
+.notify{
+    height: 5vh;
+    width: 3vw;
+    position: relative;
+    top: -15px;
+    left: 280px;
+}
+.notifi{
+    height: 6vh;
+    width: 3vw;
+    position: relative;
+    top: -15px;
+    left: 300px;
+    border-radius: 50%;
+}
+aside{
+    background-color: #ffffff;
+    width: 20%;
+    height: 90vh;
+    position: fixed;
+    top: 60px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    float: left;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    font-family: "Moderustic", sans-serif;
+    line-height: 2.3em;
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    left: 30px;
+}
+.btn:focus{
+    background-color: rgb(182, 182, 182);
+    border-radius: 20px;
+}
+li{
+    list-style: none;
+}
+.home{
+    height: 6vh;
+    width: 3vw;
+    position: relative;
+    left: -10px;
+    top: -100px;
+}
+.homes{
+    height: 5vh;
+    width: 3vw;
+    position: relative;
+    left: -55px;
+    top: -60px;
+}
+.homess{
+    height: 5vh;
+    width: 2vw;
+    position: relative;
+    left: -95px;
+    top: -25px;
+}
+h3{
+    font-family: "Moderustic", sans-serif;
+    position: relative;
+    left: 30px;
+}
+.btns{
+    background-color: transparent;
+    border: none;
+    font-family: "Moderustic", sans-serif;
+    line-height: 2.3em;
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    left: 30px;
+}
+.btns:focus{
+    background-color: rgb(182, 182, 182);
+    border-radius: 20px;
+}
+.homesss{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -9px;
+    top: -245px;
+}
+.history{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -40px;
+    top: -205px;
+}
+.historys{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -70px;
+    top: -170px;
+}
+.videos{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -100px;
+    top: -130px;
+}
+.video{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -130px;
+    top: -92px;
+}
+.like{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -160px;
+    top: -55px;
+}
+.likes{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    left: -190px;
+    top: -15px;
+}
+.one{
+    background-color: transparent;
+    border: none;
+    font-family: "Moderustic", sans-serif;
+    line-height: 2.3em;
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    left: 30px;
+}
+.one:focus{
+    background-color: rgb(182, 182, 182);
+    border-radius: 20px;
+}
+.news{
+    height: 3vh;
+    width: 2vw;
+    position: relative;
+    top: -288px;
+}
+.new{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -245px;
+    left: -32px;
+    border-radius: 50%;
+}
+.newss{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -206px;
+    left: -62px;
+    border-radius: 50%;
+}
+.table{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -167px;
+    left: -93px;
+}
+.newsss{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -130px;
+    left: -125px;
+    border-radius: 50%;
+}
+.hafiz{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -90px;
+    left: -155px;
+    border-radius: 50%;
+}
+.world{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -52px;
+    left: -185px;
+    border-radius: 50%;
+}
+.key{
+    height: 4vh;
+    width: 2vw;
+    position: relative;
+    top: -40px;
+}
+iframe{
+    position: relative;
+    left: 290px;
+    border-radius: 20px;
+}
+.iframe{
+    position: relative;
+    left: 300px;
+    border-radius: 20px;
+}
+.iframes{
+    position: relative;
+    left: 310px;
+    border-radius: 20px;
+}
+.width{
+    position: relative;
+    left: 290px;
+    top: 10px;
+    border-radius: 20px;
+}
+.widths{
+    position: relative;
+    left: 300px;
+    top: 10px;
+    border-radius: 20px;
+}
+.widthss{
+    position: relative;
+    left: 310px;
+    top: 10px;
+    border-radius: 20px;
+}
+.widthsss{
+    position: relative;
+    left: 290px;
+    top: 20px;
+    border-radius: 20px;
+}
+.height{
+    position: relative;
+    left: 300px;
+    top: 20px;
+    border-radius: 20px;
+}
+.heights{
+    position: relative;
+    left: 310px;
+    top: 20px;
+    border-radius: 20px;
+}
